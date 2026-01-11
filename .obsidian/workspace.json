@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "10d77aac815ac7e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "666ff6c6765a5398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2631c8480af5963a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "584b6d2450aa1b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c82cd17fe0d0e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0720fd6426838ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a360f779838d3652",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be0be75c6de2b2a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "right": {
+    "id": "e4fba2f3eebed6f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "56517039973cc6a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d23379dca1f1727",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LeetCode-250/Solved/3110. Score of a String.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3110. Score of a String"
+            }
+          },
+          {
+            "id": "abbdce8e3aca83de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LeetCode-250/Solved/3110. Score of a String.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3110. Score of a String"
+            }
+          },
+          {
+            "id": "42636967546b6bd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0ab4aad7b09c8ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "410d47da4b9c570d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f84a85dc1e6e64b0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "8e7ebe05faa1fb96",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "c2b73a59cb4c1cde",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "2631c8480af5963a",
+  "lastOpenFiles": [
+    "LeetCode-250/Solved/705. Design HashSet.md",
+    "], [1], [2], [1], [3], [2], [2], [2], [2.md",
+    "LeetCode-250/Solved/242. Valid Anagram.md",
+    "LeetCode-250/Solved/1929. Concatenation of Array.md",
+    "LeetCode-250/Solved/680. Valid Palindrome II.md",
+    "LeetCode-250/Solved/88. Merge Sorted Array.md",
+    "LeetCode-250/Solved/15. 3Sum.md",
+    "LeetCode-250/Problems.md",
+    "LeetCode-250/Solved/3110. Score of a String.md",
+    "LeetCode-250/Solved/1768. Merge Strings Alternately.md",
+    "LeetCode-250/Solved/344. Reverse String.md",
+    "LeetCode-250/Solved/169. Majority Element.md",
+    "LeetCode-250/Solved/167. Two Sum II - Input Array Is Sorted.md",
+    "LeetCode-250/Solved/125. Valid Palindrome.md",
+    "LeetCode-250/Solved/27. Remove Element.md",
+    "LeetCode-250/Solved/1. Two Sum.md",
+    "LeetCode-250/Solved/14. Longest Common Prefix.md",
+    "LeetCode-250/Solved/26. Remove Duplicates from Sorted Array.md",
+    "Templates/LeetCode Processor.md",
+    "LeetCode-250/Solved/Untitled",
+    "LeetCode-250/Solved",
+    "LeetCode-250",
+    "Templates",
+    "Welcome.md"
+  ]
+}
