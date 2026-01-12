@@ -10,17 +10,17 @@
 
 | Status | Problem | Difficulty | Pattern |
 |:---:|---|---|---|
-| - [ ] | [[Valid Palindrome]] | 🟢 Easy | Two Or Ends |
-| - [ ] | [[Valid Palindrome II]] | 🟢 Easy | Greedy |
+| - [x] | [[125. Valid Palindrome|Valid Palindrome]] | 🟢 Easy | Two Or Ends |
+| - [x] | [[680. Valid Palindrome II|Valid Palindrome II]] | 🟢 Easy | Greedy |
 | - [ ] | [[Minimum Difference Between Highest and Lowest of K Scores]] | 🟢 Easy | Sorting |
-| - [ ] | [[Merge Strings Alternately]] | 🟢 Easy | Simulation |
-| - [ ] | [[Reverse String]] | 🟢 Easy | Two Ends |
-| - [ ] | [[Merge Sorted Array]] | 🟢 Easy | Two Pointers |
+| - [x] | [[1768. Merge Strings Alternately|Merge Strings Alternately]] | 🟢 Easy | Simulation |
+| - [x] | [[344. Reverse String|Reverse String]] | 🟢 Easy | Two Ends |
+| - [x] | [[88. Merge Sorted Array|Merge Sorted Array]] | 🟢 Easy | Two Pointers |
 | - [ ] | [[Move Zeroes]] | 🟢 Easy | Partitioning |
-| - [ ] | [[Remove Duplicates from Sorted Array]] | 🟢 Easy | In-place |
+| - [x] | [[26. Remove Duplicates from Sorted Array|Remove Duplicates from Sorted Array]] | 🟢 Easy | In-place |
 | - [ ] | [[Remove Duplicates from Sorted Array II]] | 🟡 Medium | In-place |
-| - [ ] | [[Two Sum II - Input Array Is Sorted]] | 🟡 Medium | Two Ends |
-| - [ ] | [[3Sum]] | 🟡 Medium | Fixed + Two Pointers |
+| - [x] | [[167. Two Sum II - Input Array Is Sorted|Two Sum II - Input Array Is Sorted]] | 🟡 Medium | Two Ends |
+| - [x] | [[15. 3Sum|3Sum]] | 🟡 Medium | Fixed + Two Pointers |
 | - [ ] | [[Container With Most Water]] | 🟡 Medium | Two Ends |
 | - [ ] | [[Trapping Rain Water]] | 🔴 Hard | Two Ends |
 | - [ ] | [[4Sum]] | 🟡 Medium | K-Sum |

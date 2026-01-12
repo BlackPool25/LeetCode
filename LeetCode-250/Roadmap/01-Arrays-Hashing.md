@@ -10,23 +10,23 @@
 
 | Status | Problem | Difficulty | Pattern |
 |:---:|---|---|---|
-| - [ ] | [[Concatenation of Array]] | 🟢 Easy | Array |
+| - [x] | [[1929. Concatenation of Array|Concatenation of Array]] | 🟢 Easy | Array |
 | - [ ] | [[Contains Duplicate]] | 🟢 Easy | Hash Set |
-| - [ ] | [[Valid Anagram]] | 🟢 Easy | Hash Map |
-| - [ ] | [[Two Sum]] | 🟢 Easy | Hash Map |
+| - [x] | [[242. Valid Anagram|Valid Anagram]] | 🟢 Easy | Hash Map |
+| - [x] | [[1. Two Sum|Two Sum]] | 🟢 Easy | Hash Map |
 | - [ ] | [[Design Dynamic Array (Resizable Array)]] | 🟡 Medium | Design |
 | - [ ] | [[Design Hash Table]] | 🟡 Medium | Design |
 | - [ ] | [[Replace Elements with Greatest Element on Right]] | 🟢 Easy | Array |
 | - [ ] | [[Is Subsequence]] | 🟢 Easy | String |
 | - [ ] | [[Length of Last Word]] | 🟢 Easy | String |
-| - [ ] | [[Longest Common Prefix]] | 🟢 Easy | String |
+| - [x] | [[14. Longest Common Prefix|Longest Common Prefix]] | 🟢 Easy | String |
 | - [ ] | [[Group Anagrams]] | 🟡 Medium | Hash Map |
 | - [ ] | [[Pascal's Triangle]] | 🟢 Easy | Array |
-| - [ ] | [[Remove Element]] | 🟢 Easy | Array |
+| - [x] | [[27. Remove Element|Remove Element]] | 🟢 Easy | Array |
 | - [ ] | [[Unique Email Addresses]] | 🟢 Easy | String |
 | - [ ] | [[Isomorphic Strings]] | 🟢 Easy | Hash Map |
 | - [ ] | [[Can Place Flowers]] | 🟢 Easy | Array |
-| - [ ] | [[Majority Element]] | 🟢 Easy | Hash Map |
+| - [x] | [[169. Majority Element|Majority Element]] | 🟢 Easy | Hash Map |
 | - [ ] | [[Next Greater Element I]] | 🟢 Easy | Hash Map |
 | - [ ] | [[Find Pivot Index]] | 🟢 Easy | Prefix Sum |
 | - [ ] | [[Range Sum Query - Immutable]] | 🟢 Easy | Prefix Sum |
