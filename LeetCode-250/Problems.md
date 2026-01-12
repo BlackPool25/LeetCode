@@ -7,23 +7,23 @@
 > Each section tracks its own progress.
 
 ## 📊 Progress Overview
-**Total Progress**: `0/250` (0%)
+**Total Progress**: `16/235` (6%)
 
 ---
 
 ## 🏗️ Phase 1: The Basics (Foundation)
 Essential data structures and patterns to start with.
 
-- [[Roadmap/01-Arrays-Hashing|Arrays & Hashing]] `0/27`
-- [[Roadmap/02-Two-Pointers|Two Pointers]] `0/11`
-- [[Roadmap/03-Stack|Stack]] `0/14`
+- [[Roadmap/01-Arrays-Hashing|Arrays & Hashing]] `6/26`
+- [[Roadmap/02-Two-Pointers|Two Pointers]] `8/14`
+- [[Roadmap/03-Stack|Stack]] `2/14`
 
 ## 🎯 Phase 2: Core Algorithms
 Fundamental search and traversal techniques.
 
 - [[Roadmap/04-Binary-Search|Binary Search]] `0/14`
 - [[Roadmap/05-Sliding-Window|Sliding Window]] `0/9`
-- [[Roadmap/06-Linked-List|Linked List]] `0/14`
+- [[Roadmap/06-Linked-List|Linked List]] `0/15`
 
 ## 🌳 Phase 3: Tree-Based Structures
 Hierarchical data structures and recursion mastery.
@@ -50,7 +50,7 @@ Math, geometry, and bitwise operations.
 
 - [[Roadmap/15-Intervals|Intervals]] `0/7`
 - [[Roadmap/16-Math-Geometry|Math & Geometry]] `0/11`
-- [[Roadmap/17-Bit-Manipulation|Bit Manipulation]] `0/8`
+- [[Roadmap/17-Bit-Manipulation|Bit Manipulation]] `0/9`
 
 ---
 
