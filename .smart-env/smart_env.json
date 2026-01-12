@@ -27,7 +27,8 @@
   "smart_notices": {
     "muted": {
       "done_initial_scan": true,
-      "done_import": true
+      "done_import": true,
+      "embedding_complete": true
     }
   },
   "smart_view_filter": {

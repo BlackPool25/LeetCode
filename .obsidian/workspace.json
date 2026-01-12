@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 238.5
   },
   "right": {
     "id": "e4fba2f3eebed6f8",
@@ -220,13 +220,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2631c8480af5963a",
+  "active": "f0720fd6426838ab",
   "lastOpenFiles": [
+    "LeetCode-250/Problems.md",
     "LeetCode-250/Solved/155. Min Stack.md",
     "LeetCode-250/Solved/20. Valid Parentheses.md",
     "Templates/LeetCode Processor.md",
     "Templates/FlashCards.md",
-    "LeetCode-250/Problems.md",
     "LeetCode-250/Solved/3110. Score of a String.md",
     "LeetCode-250/Solved/1929. Concatenation of Array.md",
     "LeetCode-250/Solved/1768. Merge Strings Alternately.md",
