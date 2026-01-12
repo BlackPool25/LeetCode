@@ -1,5 +1,1 @@
-
-"embedding_models:transformers#1768126782929": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1768126782929,"key":"transformers#1768126782929"},
-"embedding_models:transformers#1768126782929": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1768126782929,"key":"transformers#1768126782929","test_passed":true},
-"embedding_models:transformers#1768126782929": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1768126782929,"key":"transformers#1768126782929","test_passed":true},
 "embedding_models:transformers#1768126782929": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1768126782929,"key":"transformers#1768126782929","test_passed":true,"meta":{"name":"List"}},
