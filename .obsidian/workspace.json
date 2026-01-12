@@ -220,8 +220,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f0720fd6426838ab",
+  "active": "2631c8480af5963a",
   "lastOpenFiles": [
+    "LeetCode-250/Roadmap/02-Two-Pointers.md",
+    "LeetCode-250/Roadmap/01-Arrays-Hashing.md",
+    "LeetCode-250/Roadmap",
     "LeetCode-250/Problems.md",
     "LeetCode-250/Solved/155. Min Stack.md",
     "LeetCode-250/Solved/20. Valid Parentheses.md",
