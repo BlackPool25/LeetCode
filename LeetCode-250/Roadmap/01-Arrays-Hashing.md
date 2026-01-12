@@ -1,4 +1,4 @@
-# Arrays & Hashing
+ # Arrays & Hashing
 
 **Prerequisites**: None
 **Next Step**: [[02-Two-Pointers]], [[03-Stack]]
