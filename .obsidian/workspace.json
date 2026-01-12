@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Solved/225. Implement Stack using Queues.md",
+                "file": "LeetCode-250/Solved/232. Implement Queue using Stacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "225. Implement Stack using Queues"
+              "title": "232. Implement Queue using Stacks"
             }
           }
         ]
@@ -222,8 +222,9 @@
   },
   "active": "2631c8480af5963a",
   "lastOpenFiles": [
-    "LeetCode-250/Problems.md",
     "LeetCode-250/Solved/225. Implement Stack using Queues.md",
+    "LeetCode-250/Solved/232. Implement Queue using Stacks.md",
+    "LeetCode-250/Problems.md",
     "LeetCode-250/Solved/735. Asteroid Collision.md",
     "LeetCode-250/Solved/682. Baseball Game.md",
     "LeetCode-250/Roadmap/01-Arrays-Hashing.md",
@@ -249,7 +250,6 @@
     "LeetCode-250/Roadmap",
     "LeetCode-250/Solved/155. Min Stack.md",
     "LeetCode-250/Solved/20. Valid Parentheses.md",
-    "Templates/LeetCode Processor.md",
     "LeetCode-250/Solved/Untitled",
     "LeetCode-250/Solved",
     "LeetCode-250",
