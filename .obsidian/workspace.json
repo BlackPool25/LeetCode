@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -216,7 +216,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2631c8480af5963a",
+  "active": "8e7ebe05faa1fb96",
   "lastOpenFiles": [
     "LeetCode-250/Roadmap/01-Arrays-Hashing.md",
     "LeetCode-250/Solved/1929. Concatenation of Array.md",
