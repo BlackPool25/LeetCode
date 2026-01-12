@@ -11,10 +11,14 @@
             "id": "2631c8480af5963a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Templates/LeetCode Processor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LeetCode Processor"
             }
           }
         ]
@@ -191,12 +195,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
-    "collapsed": true
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,28 +216,30 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8e7ebe05faa1fb96",
+  "active": "2631c8480af5963a",
   "lastOpenFiles": [
-    "LeetCode-250/Solved/705. Design HashSet.md",
-    "], [1], [2], [1], [3], [2], [2], [2], [2.md",
-    "LeetCode-250/Solved/242. Valid Anagram.md",
-    "LeetCode-250/Solved/1929. Concatenation of Array.md",
-    "LeetCode-250/Solved/680. Valid Palindrome II.md",
-    "LeetCode-250/Solved/88. Merge Sorted Array.md",
-    "LeetCode-250/Solved/15. 3Sum.md",
+    "Templates/FlashCards.md",
     "LeetCode-250/Problems.md",
     "LeetCode-250/Solved/3110. Score of a String.md",
+    "LeetCode-250/Solved/1929. Concatenation of Array.md",
     "LeetCode-250/Solved/1768. Merge Strings Alternately.md",
     "LeetCode-250/Solved/344. Reverse String.md",
     "LeetCode-250/Solved/169. Majority Element.md",
-    "LeetCode-250/Solved/167. Two Sum II - Input Array Is Sorted.md",
     "LeetCode-250/Solved/125. Valid Palindrome.md",
     "LeetCode-250/Solved/27. Remove Element.md",
+    "LeetCode-250/Solved/15. 3Sum.md",
     "LeetCode-250/Solved/1. Two Sum.md",
     "LeetCode-250/Solved/14. Longest Common Prefix.md",
+    "LeetCode-250/Solved/705. Design HashSet.md",
+    "], [1], [2], [1], [3], [2], [2], [2], [2.md",
+    "LeetCode-250/Solved/242. Valid Anagram.md",
+    "LeetCode-250/Solved/680. Valid Palindrome II.md",
+    "LeetCode-250/Solved/88. Merge Sorted Array.md",
+    "LeetCode-250/Solved/167. Two Sum II - Input Array Is Sorted.md",
     "LeetCode-250/Solved/26. Remove Duplicates from Sorted Array.md",
     "Templates/LeetCode Processor.md",
     "LeetCode-250/Solved/Untitled",
