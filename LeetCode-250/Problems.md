@@ -705,20 +705,20 @@ Solve complex problems by breaking into overlapping subproblems:
 
 ### Problems
 
-| # | Problem | Difficulty | Pattern | Status | Priority | Notes |
-|---|---------|-----------|---------|--------|----------|-------|
-| 1 | [[Climbing Stairs]] | 🟢 Easy | Fibonacci | ⬜ | 🔥 | dp[i] = dp[i-1] + dp[i-2] |
-| 2 | [[Min Cost Climbing Stairs]] | 🟢 Easy | Fibonacci Variant | ⬜ | 🔥 | Choose min cost step |
-| 3 | [[House Robber]] | 🟡 Medium | Include/Skip | ⬜ | 🔥 | Can't rob adjacent |
-| 4 | [[House Robber II]] | 🟡 Medium | Circular Array | ⬜ | 🔥 | Two passes (include/exclude first) |
-| 5 | [[Longest Palindromic Substring]] | 🟡 Medium | Expand Center | ⬜ | 🔥 | O(n²) expand from each |
-| 6 | [[Palindromic Substrings]] | 🟡 Medium | Expand Center | ⬜ | ⚡ | Count all palindromes |
-| 7 | [[Decode Ways]] | 🟡 Medium | String DP | ⬜ | ⚡ | 1 or 2 digit decode |
-| 8 | [[Coin Change]] | 🟡 Medium | Unbounded Knapsack | ⬜ | 🔥 | min coins for amount |
-| 9 | [[Maximum Product Subarray]] | 🟡 Medium | Track Min & Max | ⬜ | 🔥 | Negatives can flip |
-| 10 | [[Word Break]] | 🟡 Medium | String DP | ⬜ | 🔥 | Can segment with dict |
-| 11 | [[Longest Increasing Subsequence]] | 🟡 Medium | LIS Pattern | ⬜ | 🔥 | O(n²) or O(n log n) |
-| 12 | [[Partition Equal Subset Sum]] | 🟡 Medium | 0/1 Knapsack | ⬜ | ⚡ | Subset sum = total/2 |
+| #   | Problem                            | Difficulty | Pattern            | Status | Priority | Notes                              |
+| --- | ---------------------------------- | ---------- | ------------------ | ------ | -------- | ---------------------------------- |
+| 1   | [[Climbing Stairs]]                | 🟢 Easy    | Fibonacci          | ⬜      | 🔥       | dp[i] = dp[i-1] + dp[i-2]          |
+| 2   | [[Min Cost Climbing Stairs]]       | 🟢 Easy    | Fibonacci Variant  | ⬜      | 🔥       | Choose min cost step               |
+| 3   | [[House Robber]]                   | 🟡 Medium  | Include/Skip       | ⬜      | 🔥       | Can't rob adjacent                 |
+| 4   | [[House Robber II]]                | 🟡 Medium  | Circular Array     | ⬜      | 🔥       | Two passes (include/exclude first) |
+| 5   | [[Longest Palindromic Substring]]  | 🟡 Medium  | Expand Center      | ⬜      | 🔥       | O(n²) expand from each             |
+| 6   | [[Palindromic Substrings]]         | 🟡 Medium  | Expand Center      | ⬜      | ⚡        | Count all palindromes              |
+| 7   | [[Decode Ways]]                    | 🟡 Medium  | String DP          | ⬜      | ⚡        | 1 or 2 digit decode                |
+| 8   | [[Coin Change]]                    | 🟡 Medium  | Unbounded Knapsack | ⬜      | 🔥       | min coins for amount               |
+| 9   | [[Maximum Product Subarray]]       | 🟡 Medium  | Track Min & Max    | ⬜      | 🔥       | Negatives can flip                 |
+| 10  | [[Word Break]]                     | 🟡 Medium  | String DP          | ⬜      | 🔥       | Can segment with dict              |
+| 11  | [[Longest Increasing Subsequence]] | 🟡 Medium  | LIS Pattern        | ⬜      | 🔥       | O(n²) or O(n log n)                |
+| 12  | [[Partition Equal Subset Sum]]     | 🟡 Medium  | 0/1 Knapsack       | ⬜      | ⚡        | Subset sum = total/2               |
 
 ### Key Patterns & Techniques
 
