@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/LeetCode Processor.md",
+                "file": "LeetCode-250/Solved/20. Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode Processor"
+              "title": "20. Valid Parentheses"
             }
           }
         ]
@@ -222,6 +222,8 @@
   },
   "active": "2631c8480af5963a",
   "lastOpenFiles": [
+    "Templates/LeetCode Processor.md",
+    "LeetCode-250/Solved/20. Valid Parentheses.md",
     "Templates/FlashCards.md",
     "LeetCode-250/Problems.md",
     "LeetCode-250/Solved/3110. Score of a String.md",
@@ -241,7 +243,6 @@
     "LeetCode-250/Solved/88. Merge Sorted Array.md",
     "LeetCode-250/Solved/167. Two Sum II - Input Array Is Sorted.md",
     "LeetCode-250/Solved/26. Remove Duplicates from Sorted Array.md",
-    "Templates/LeetCode Processor.md",
     "LeetCode-250/Solved/Untitled",
     "LeetCode-250/Solved",
     "LeetCode-250",
