@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Solved/20. Valid Parentheses.md",
+                "file": "LeetCode-250/Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Valid Parentheses"
+              "title": "Problems"
             }
           }
         ]
@@ -222,8 +222,9 @@
   },
   "active": "2631c8480af5963a",
   "lastOpenFiles": [
-    "Templates/LeetCode Processor.md",
+    "LeetCode-250/Solved/155. Min Stack.md",
     "LeetCode-250/Solved/20. Valid Parentheses.md",
+    "Templates/LeetCode Processor.md",
     "Templates/FlashCards.md",
     "LeetCode-250/Problems.md",
     "LeetCode-250/Solved/3110. Score of a String.md",
