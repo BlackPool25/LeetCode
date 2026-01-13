@@ -25,12 +25,14 @@
             "id": "87e9ed2e923140b8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "LeetCode-250/Solved/739. Daily Temperatures.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "739. Daily Temperatures"
             }
           }
         ],
@@ -233,8 +235,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8e7ebe05faa1fb96",
+  "active": "87e9ed2e923140b8",
   "lastOpenFiles": [
+    "LeetCode-250/Solved/150. Evaluate Reverse Polish Notation.md",
+    "LeetCode-250/Solved/739. Daily Temperatures.md",
     "LeetCode-250/Solved/225. Implement Stack using Queues.md",
     "LeetCode-250/Solved/232. Implement Queue using Stacks.md",
     "LeetCode-250/Problems.md",
@@ -261,8 +265,6 @@
     "LeetCode-250/Roadmap/03-Stack.md",
     "LeetCode-250/Roadmap/02-Two-Pointers.md",
     "LeetCode-250/Roadmap",
-    "LeetCode-250/Solved/155. Min Stack.md",
-    "LeetCode-250/Solved/20. Valid Parentheses.md",
     "LeetCode-250/Solved/Untitled",
     "LeetCode-250/Solved",
     "LeetCode-250",
