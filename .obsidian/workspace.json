@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Roadmap/Solved/35. Search Insert Position.md",
+                "file": "LeetCode-250/Roadmap/Solved/374. Guess Number Higher or Lower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "35. Search Insert Position"
+              "title": "374. Guess Number Higher or Lower"
             }
           }
         ],
@@ -307,8 +307,9 @@
   },
   "active": "bb5a19f9e6ee2130",
   "lastOpenFiles": [
-    "LeetCode-250/Roadmap/Solved/704. Binary Search.md",
     "LeetCode-250/Roadmap/Solved/35. Search Insert Position.md",
+    "LeetCode-250/Roadmap/Solved/374. Guess Number Higher or Lower.md",
+    "LeetCode-250/Roadmap/Solved/704. Binary Search.md",
     "LeetCode-250/Roadmap/Formats/04-Binary-Search.md",
     "LeetCode-250/Roadmap/Formats/01-Arrays-Hashing.md",
     "LeetCode-250/Problems.md",
@@ -335,7 +336,6 @@
     "LeetCode-250/Patterns/Uncategorized/706. Design HashMap.md",
     "LeetCode-250/Patterns/Uncategorized/705. Design HashSet.md",
     "LeetCode-250/Patterns/Uncategorized/682. Baseball Game.md",
-    "LeetCode-250/Patterns/Uncategorized/49. Group Anagrams.md",
     "LeetCode-250/Patterns/Uncategorized",
     "LeetCode-250/Resources/Templates",
     "LeetCode-250/Resources",
