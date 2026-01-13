@@ -280,11 +280,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,7 +305,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb5a19f9e6ee2130",
+  "active": "c2b73a59cb4c1cde",
   "lastOpenFiles": [
     "LeetCode-250/Roadmap/Solved/374. Guess Number Higher or Lower.md",
     "LeetCode-250/Roadmap/Solved/69. Sqrt(x).md",
