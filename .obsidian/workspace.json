@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "232. Implement Queue using Stacks"
             }
+          },
+          {
+            "id": "87e9ed2e923140b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -220,7 +233,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2631c8480af5963a",
+  "active": "8e7ebe05faa1fb96",
   "lastOpenFiles": [
     "LeetCode-250/Solved/225. Implement Stack using Queues.md",
     "LeetCode-250/Solved/232. Implement Queue using Stacks.md",
