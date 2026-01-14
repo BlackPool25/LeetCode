@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Roadmap/Solved/219. Contains Duplicate II.md",
+                "file": "LeetCode-250/Roadmap/Solved/121. Best Time to Buy and Sell Stock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "219. Contains Duplicate II"
+              "title": "121. Best Time to Buy and Sell Stock"
             }
           }
         ],
@@ -307,8 +307,9 @@
   },
   "active": "bb5a19f9e6ee2130",
   "lastOpenFiles": [
-    "LeetCode-250/Roadmap/Solved/69. Sqrt(x).md",
     "LeetCode-250/Roadmap/Solved/219. Contains Duplicate II.md",
+    "LeetCode-250/Roadmap/Solved/121. Best Time to Buy and Sell Stock.md",
+    "LeetCode-250/Roadmap/Solved/69. Sqrt(x).md",
     "LeetCode-250/Roadmap/Solved/374. Guess Number Higher or Lower.md",
     "LeetCode-250/Roadmap/Solved/35. Search Insert Position.md",
     "LeetCode-250/Roadmap/Solved/704. Binary Search.md",
@@ -335,7 +336,6 @@
     "LeetCode-250/Roadmap/Solved/706. Design HashMap.md",
     "LeetCode-250/Patterns/Uncategorized/739. Daily Temperatures.md",
     "LeetCode-250/Patterns/Uncategorized/735. Asteroid Collision.md",
-    "LeetCode-250/Patterns/Uncategorized/706. Design HashMap.md",
     "LeetCode-250/Patterns/Uncategorized",
     "LeetCode-250/Resources/Templates",
     "LeetCode-250/Resources",
