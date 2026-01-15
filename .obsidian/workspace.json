@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Roadmap/Solved/1. Two Sum.md",
+                "file": "LeetCode-250/Roadmap/Solved/15. 3Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Two Sum"
+              "title": "15. 3Sum"
             }
           }
         ],
@@ -307,6 +307,7 @@
   },
   "active": "bb5a19f9e6ee2130",
   "lastOpenFiles": [
+    "LeetCode-250/Roadmap/Solved/1. Two Sum.md",
     "LeetCode-250/Roadmap/Solved/27. Remove Element.md",
     "LeetCode-250/Roadmap/Solved/121. Best Time to Buy and Sell Stock.md",
     "LeetCode-250/Roadmap/Solved/219. Contains Duplicate II.md",
@@ -335,7 +336,6 @@
     "LeetCode-250/Patterns/01-Arrays-Hashing/49. Group Anagrams.md",
     "cleanup_migration.py",
     "LeetCode-250/Roadmap/Solved/706. Design HashMap.md",
-    "LeetCode-250/Patterns/Uncategorized/739. Daily Temperatures.md",
     "LeetCode-250/Patterns/Uncategorized",
     "LeetCode-250/Resources/Templates",
     "LeetCode-250/Resources",
