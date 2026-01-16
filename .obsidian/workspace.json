@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Roadmap/Solved/169. Majority Element.md",
+                "file": "LeetCode-250/Roadmap/Solved/682. Baseball Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "169. Majority Element"
+              "title": "682. Baseball Game"
             }
           }
         ],
@@ -307,6 +307,7 @@
   },
   "active": "bb5a19f9e6ee2130",
   "lastOpenFiles": [
+    "LeetCode-250/Roadmap/Solved/169. Majority Element.md",
     "LeetCode-250/Problems.md",
     "LeetCode-250/Roadmap/Testing.md",
     "LeetCode-250/Roadmap/Solved/3110. Score of a String.md",
@@ -334,7 +335,6 @@
     "LeetCode-250/Roadmap/Formats/07-Trees.md",
     "LeetCode-250/Roadmap/Formats/05-Sliding-Window.md",
     "LeetCode-250/Patterns/01-Arrays-Hashing/169. Majority Element.md",
-    "LeetCode-250/Patterns/01-Arrays-Hashing/27. Remove Element.md",
     "cleanup_migration.py",
     "LeetCode-250/Patterns/Uncategorized",
     "LeetCode-250/Resources/Templates",
