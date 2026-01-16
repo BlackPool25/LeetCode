@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Roadmap/Solved/15. 3Sum.md",
+                "file": "LeetCode-250/Roadmap/Solved/704. Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. 3Sum"
+              "title": "704. Binary Search"
             }
           }
         ],
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 434.5
   },
   "right": {
     "id": "e4fba2f3eebed6f8",
@@ -305,15 +305,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8e7ebe05faa1fb96",
+  "active": "bb5a19f9e6ee2130",
   "lastOpenFiles": [
+    "LeetCode-250/Roadmap/Solved/680. Valid Palindrome II.md",
+    "LeetCode-250/Roadmap/Solved/344. Reverse String.md",
+    "LeetCode-250/Roadmap/Solved/219. Contains Duplicate II.md",
+    "LeetCode-250/Roadmap/Solved/150. Evaluate Reverse Polish Notation.md",
+    "LeetCode-250/Roadmap/Solved/35. Search Insert Position.md",
+    "LeetCode-250/Roadmap/Solved/14. Longest Common Prefix.md",
+    "LeetCode-250/Roadmap/Solved/20. Valid Parentheses.md",
+    "LeetCode-250/Roadmap/Solved/15. 3Sum.md",
     "LeetCode-250/Roadmap/Solved/1. Two Sum.md",
     "LeetCode-250/Roadmap/Solved/27. Remove Element.md",
     "LeetCode-250/Roadmap/Solved/121. Best Time to Buy and Sell Stock.md",
-    "LeetCode-250/Roadmap/Solved/219. Contains Duplicate II.md",
     "LeetCode-250/Roadmap/Solved/69. Sqrt(x).md",
     "LeetCode-250/Roadmap/Solved/374. Guess Number Higher or Lower.md",
-    "LeetCode-250/Roadmap/Solved/35. Search Insert Position.md",
     "LeetCode-250/Roadmap/Solved/704. Binary Search.md",
     "LeetCode-250/Roadmap/Formats/04-Binary-Search.md",
     "LeetCode-250/Roadmap/Formats/01-Arrays-Hashing.md",
@@ -329,13 +335,7 @@
     "LeetCode-250/Patterns/01-Arrays-Hashing/27. Remove Element.md",
     "LeetCode-250/Patterns/01-Arrays-Hashing/14. Longest Common Prefix.md",
     "LeetCode-250/Patterns/03-Stack/739. Daily Temperatures.md",
-    "LeetCode-250/Patterns/03-Stack/150. Evaluate Reverse Polish Notation.md",
-    "LeetCode-250/Patterns/03-Stack/682. Baseball Game.md",
-    "LeetCode-250/Patterns/03-Stack/735. Asteroid Collision.md",
-    "LeetCode-250/Patterns/03-Stack/225. Implement Stack using Queues.md",
-    "LeetCode-250/Patterns/01-Arrays-Hashing/49. Group Anagrams.md",
     "cleanup_migration.py",
-    "LeetCode-250/Roadmap/Solved/706. Design HashMap.md",
     "LeetCode-250/Patterns/Uncategorized",
     "LeetCode-250/Resources/Templates",
     "LeetCode-250/Resources",
