@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Roadmap/Solved/1025. Divisor Game.md",
+                "file": "LeetCode-250/Roadmap/Solved/141. Linked List Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1025. Divisor Game"
+              "title": "141. Linked List Cycle"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merge sorted",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -306,10 +305,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a360f779838d3652",
+  "active": "bb5a19f9e6ee2130",
   "lastOpenFiles": [
-    "LeetCode-250/Roadmap/Solved/190. Reverse Bits.md",
+    "LeetCode-250/Roadmap/Formats/02-Two-Pointers.md",
+    "LeetCode-250/Roadmap/Solved/141. Linked List Cycle.md",
     "LeetCode-250/Roadmap/Solved/1025. Divisor Game.md",
+    "LeetCode-250/Roadmap/Solved/190. Reverse Bits.md",
     "LeetCode-250/Roadmap/Solved/258. Add Digits.md",
     "LeetCode-250/Roadmap/Solved/2. Add Two Numbers.md",
     "LeetCode-250/Roadmap/Solved/206. Reverse Linked List.md",
@@ -332,8 +333,6 @@
     "LeetCode-250/Roadmap/Solved/27. Remove Element.md",
     "LeetCode-250/Roadmap/Solved/121. Best Time to Buy and Sell Stock.md",
     "LeetCode-250/Roadmap/Solved/69. Sqrt(x).md",
-    "LeetCode-250/Roadmap/Solved/374. Guess Number Higher or Lower.md",
-    "LeetCode-250/Roadmap/Formats/04-Binary-Search.md",
     "LeetCode-250/Roadmap/Formats",
     "LeetCode-250/Roadmap/Solved/Untitled",
     "cleanup_migration.py",
