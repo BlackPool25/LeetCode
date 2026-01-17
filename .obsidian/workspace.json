@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode-250/Roadmap/Solved/258. Add Digits.md",
+                "file": "LeetCode-250/Roadmap/Solved/1025. Divisor Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "258. Add Digits"
+              "title": "1025. Divisor Game"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "merge sorted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -305,10 +306,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb5a19f9e6ee2130",
+  "active": "a360f779838d3652",
   "lastOpenFiles": [
-    "LeetCode-250/Roadmap/Solved/2. Add Two Numbers.md",
+    "LeetCode-250/Roadmap/Solved/190. Reverse Bits.md",
+    "LeetCode-250/Roadmap/Solved/1025. Divisor Game.md",
     "LeetCode-250/Roadmap/Solved/258. Add Digits.md",
+    "LeetCode-250/Roadmap/Solved/2. Add Two Numbers.md",
     "LeetCode-250/Roadmap/Solved/206. Reverse Linked List.md",
     "LeetCode-250/Roadmap/Solved/21. Merge Two Sorted Lists.md",
     "LeetCode-250/Roadmap/Solved/682. Baseball Game.md",
@@ -331,8 +334,6 @@
     "LeetCode-250/Roadmap/Solved/69. Sqrt(x).md",
     "LeetCode-250/Roadmap/Solved/374. Guess Number Higher or Lower.md",
     "LeetCode-250/Roadmap/Formats/04-Binary-Search.md",
-    "LeetCode-250/Roadmap/Formats/01-Arrays-Hashing.md",
-    "LeetCode-250/Roadmap/Formats/02-Two-Pointers.md",
     "LeetCode-250/Roadmap/Formats",
     "LeetCode-250/Roadmap/Solved/Untitled",
     "cleanup_migration.py",
